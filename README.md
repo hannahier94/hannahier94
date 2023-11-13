@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me
 
 - 📊 Uncovering the world through data
 - 🎓 Studied Economics with a focus in Management Science at UCSD
