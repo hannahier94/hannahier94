@@ -9,12 +9,13 @@
 - Data Visualization
 - Python (advanced) and SQL (intermediate)
 - Data Engineering , pipelines, architecture
+- Relational DBs
+- AWS
 
 ### Interests
 - Meditation / Yoga
 - Horror movies
 - Video games
-- Helping others
 - Deep conversations about AI, quantum physics, spirtuality, UFOs, etc. 
 
 <!--
