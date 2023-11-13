@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-📊 Uncovering the world through data
-🎓 Studied Economics with a focus in Management Science at UCSD
-🚀 Exploring data trends with a focus on healthcare (but really a passion for data and learning new things)
+- 📊 Uncovering the world through data
+- 🎓 Studied Economics with a focus in Management Science at UCSD
+- 🚀 Exploring data trends with a focus on healthcare (but really a passion for data and learning new things)
 
 ### Skilled In
 - Machine Learning
