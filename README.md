@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+📊 Uncovering the world through data
+🎓 Studied Economics with a focus in Management Science at UCSD
+🚀 Exploring data trends with a focus on healthcare (but really a passion for data and learning new things)
+
+### Skilled In
+- Machine Learning
+- Data Visualization
+- Python (advanced) and SQL (intermediate)
+- Data Engineering , pipelines, architecture
+
+### Interests
+- Meditation / Yoga
+- Horror movies
+- Video games
+- Helping others
+- Deep conversations about AI, quantum physics, spirtuality, UFOs, etc. 
+
 <!--
 **hannahier94/hannahier94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
